@@ -1,0 +1,47 @@
+{
+  "name": "lutu",
+  "version": "0.0.5",
+  "description": "The only moderation bot you need for your discord server, with a ban list, automod and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/MrAugu/lutu-bot.git"
+  },
+  "keywords": [
+    "discord.js",
+    "discord",
+    "bot",
+    "node.js"
+  ],
+  "author": "MrAugu#9016",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/MrAugu/lutu-bot/issues"
+  },
+  "homepage": "https://gitlab.com/MrAugu/lutu-bot#readme",
+  "dependencies": {
+    "@pm2/io": "^4.3.3",
+    "body-parser": "^1.18.3",
+    "chalk": "^2.4.1",
+    "cheerio": "^1.0.0-rc.6",
+    "discord-message-parser": "^1.0.1",
+    "discord.js": "git+https://github.com/discordjs/discord.js.git",
+    "express": "^4.16.4",
+    "hclientify": "git+https://github.com/ModCord/http-client.git",
+    "helmet": "^3.21.0",
+    "klaw": "^3.0.0",
+    "marked": "^2.0.3",
+    "moment": "^2.23.0",
+    "moment-duration-format": "^2.3.2",
+    "moment-timezone": "^0.5.33",
+    "mongoose": "^5.7.5",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.1",
+    "pretty-ms": "^4.0.0",
+    "request": "^2.88.0",
+    "ytdl-core": "^4.5.0"
+  }
+}
