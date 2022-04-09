@@ -34,7 +34,7 @@
     "helmet": "^3.21.0",
     "klaw": "^3.0.0",
     "marked": "^2.0.3",
-    "moment": "^2.23.0",
+    "moment": "^2.29.2",
     "moment-duration-format": "^2.3.2",
     "moment-timezone": "^0.5.33",
     "mongoose": "^5.7.5",
